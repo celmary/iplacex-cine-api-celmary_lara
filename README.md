@@ -1,2 +1,2 @@
 # iplacex-cine-api-celmary_lara
-API REST Express para administración de películas y actores
+API REST Express para administración de películas favoritas de empleados de IPLACEX
